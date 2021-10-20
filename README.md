@@ -1,0 +1,2 @@
+# EM-Field-Detector-using-OP-AMP
+This is a very simple circuit which was used to detect the Electromagnetic field which was around us. The principle behind this circuit was mutual induction whenever a EMF was near a inductor mutual inductance takes place and due to this mutual induction it results in a voltage in the inductor. Using this induced voltage the EMF field was detected. Lets see the working of emf sensor circuit.
